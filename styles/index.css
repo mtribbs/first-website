@@ -1,5 +1,5 @@
 body {
-    background-color: #fdf5e6; /* background-old-lace */
+    background-color: #fff5ee; /* background-seashell */
 }
 h1 {
     color: black;
@@ -29,4 +29,10 @@ h1 {
 img {
     width: 50%;
     height: auto;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
 }
