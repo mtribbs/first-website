@@ -1,0 +1,32 @@
+body {
+    background-color: #fdf5e6; /* background-old-lace */
+}
+h1 {
+    color: black;
+    font-size: 40px;
+}
+.violet-title, .enrico-title, .ava-title, .krem-title, .raven-title, .sava-title {
+    font-size: 20px;
+}
+.violet-title {
+    color: #ee82ee; /* violet */
+}
+.enrico-title {
+    color: #dc143c; /* crimson */
+}
+.ava-title {
+    color: #bc8f8f; /* rosy-brown */
+}
+.krem-title {
+    color: #2e8b57; /* sea-green */
+}
+.raven-title {
+    color: #b0c4de; /* light-steel-blue */
+}
+.sava-title {
+    color: #ff8c00; /* dark-orange */
+}
+img {
+    width: 50%;
+    height: auto;
+}
