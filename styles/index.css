@@ -34,5 +34,8 @@ a:link {
     color: black;
 }
 a:visited {
-    color: black;
+    color:maroon;
+}
+a:hover {
+    color:darkgoldenrod;
 }
